@@ -1,0 +1,4 @@
+[console_scripts]
+pdfstream = pdfstream.main:main
+print_server_config_dir = pdfstream.main:print_server_config_dir
+run_server = pdfstream.main:run_server
